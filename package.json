@@ -2,6 +2,10 @@
   "name": "facialrecognitionapp",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.13.0",
+    "npm": "8.1.0"
+  },
   "dependencies": {
     "clarifai": "^2.9.1",
     "gh-pages": "^3.2.3",
